@@ -1,0 +1,10 @@
+D:\Teaching_material\words-repository-compose\starter\app\src\main\kotlin\com\ist\android\words\ui\icons\SearchIcon.kt
+D:\Teaching_material\words-repository-compose\starter\app\src\main\kotlin\com\ist\android\words\ui\text\SearchTextField.kt
+D:\Teaching_material\words-repository-compose\starter\app\src\main\kotlin\com\ist\android\words\MainActivity.kt
+D:\Teaching_material\words-repository-compose\starter\app\src\main\kotlin\com\ist\android\words\ui\LoadingUi.kt
+D:\Teaching_material\words-repository-compose\starter\app\src\main\kotlin\com\ist\android\words\data\words\RandomWords.kt
+D:\Teaching_material\words-repository-compose\starter\app\src\main\kotlin\com\ist\android\words\ui\bars\SearchBar.kt
+D:\Teaching_material\words-repository-compose\starter\app\src\main\kotlin\com\ist\android\words\ui\theme\WordsTheme.kt
+D:\Teaching_material\words-repository-compose\starter\app\src\main\kotlin\com\ist\android\words\ui\icons\BackIcon.kt
+D:\Teaching_material\words-repository-compose\starter\app\src\main\kotlin\com\ist\android\words\WordsApp.kt
+D:\Teaching_material\words-repository-compose\starter\app\src\main\kotlin\com\ist\android\words\ui\bars\MainTopBar.kt
