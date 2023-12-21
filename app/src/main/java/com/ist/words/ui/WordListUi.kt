@@ -28,12 +28,12 @@ import com.ist.words.ui.bars.MainTopBar
  */
 @SuppressLint("UnusedMaterial3ScaffoldPaddingParameter")
 @Composable
-fun WordListUi() {
+fun WordListUi(words: List<Word>) {
     Scaffold(
         topBar = { MainTopBar() },
         content = {
             WordsContent(
-                words = RandomWords.map { Word(it) },
+                words = words,
                 onSelected = { word -> Log.e("WordsContent",
                     "Selected: $word") }
             )

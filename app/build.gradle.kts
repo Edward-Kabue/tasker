@@ -61,6 +61,8 @@ dependencies {
     implementation(libs.androidx.material3)
     implementation(libs.accompanist.systemuicontroller)
     implementation(libs.accompanist.insets.ui)
+    implementation(libs.firebase.crashlytics.buildtools)
+    implementation(libs.ktor.client.core)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)

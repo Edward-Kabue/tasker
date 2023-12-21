@@ -1,6 +1,6 @@
 
 
-package com.raywenderlich.android.words.ui
+package com.ist.words.ui
 
 import android.annotation.SuppressLint
 import androidx.compose.foundation.layout.Box
